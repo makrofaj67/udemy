@@ -15,7 +15,7 @@ an = a1 + (n-1)*d
 
 #include <stdio.h>
 
-int main () 
+int main ()
 
 {
     int d, a1, n;

@@ -2,8 +2,7 @@
 
 int main ()
 
-{   
-    float number;
+{    float number;
     printf("please enter the float that you want to remove its decimal part. \n");
     scanf("%f", &number);
     printf("number is %f\n", number);
